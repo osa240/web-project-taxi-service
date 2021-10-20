@@ -8,13 +8,13 @@
     <title>All drivers</title>
 </head>
 <body>
-<h1 class="table_dark">All drivers:</h1>
-<table border="1" class="table_dark">
+<h3 class="table_white"><a href="/">Home page</a></h3>
+<h1 class="table_white">All drivers:</h1>
+<table border="1" class="table_white">
     <tr>
         <th>ID</th>
         <th>Name</th>
         <th>Login</th>
-        <th>Password</th>
         <th>License number</th>
         <th>Delete</th>
     </tr>
@@ -28,9 +28,6 @@
             </td>
             <td>
                 <c:out value="${driver.login}"/>
-            </td>
-            <td>
-                <c:out value="${driver.password}"/>
             </td>
             <td>
                 <c:out value="${driver.licenseNumber}"/>

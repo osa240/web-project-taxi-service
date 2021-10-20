@@ -8,9 +8,10 @@
     <title>Add car</title>
 </head>
 <body>
+<h3 class="table_white"><a href="/">Home page</a></h3>
 <form method="post" id="car" action="${pageContext.request.contextPath}/cars/add"></form>
-<h1 class="table_dark">Add car:</h1>
-<table border="1" class="table_dark">
+<h1 class="table_white">Add car:</h1>
+<table border="1" class="table_white">
     <tr>
         <th>Model</th>
         <th>Manufacturer ID</th>

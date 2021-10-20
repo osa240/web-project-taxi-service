@@ -8,9 +8,10 @@
     <title>Manufacturers</title>
 </head>
 <body>
+<h3 class="table_white"><a href="/">Home page</a></h3>
 <form method="post" id="manufacturer" action="${pageContext.request.contextPath}/manufacturers/add"></form>
-<h1 class="table_dark">Add manufacturer:</h1>
-<table border="1" class="table_dark">
+<h1 class="table_white">Add manufacturer:</h1>
+<table border="1" class="table_white">
     <tr>
         <th>Name</th>
         <th>Country</th>
