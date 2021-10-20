@@ -1,12 +1,12 @@
 <html lang="en">
-<head>
-</head>
 <body>
     <h1>Readme:</h1>
     <h2>What is the project?</h2>
     <h3>
         This is my first web project, which has done me practise <br> 
-        to construct programs as a N-tier architecture.
+        to construct programs as a N-tier architecture with web-technologies. <br>
+        <br>
+        It self is an emulation of a taxi service.
     </h3>
     <br>
     <h2>Requires to getting start:</h2>
