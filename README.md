@@ -1,6 +1,5 @@
 <html lang="en">
 <head>
-<title>Readme</title>
 </head>
 <body>
     <h1>Readme:</h1>
