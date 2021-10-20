@@ -1,85 +1,85 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <checkstyle version="8.29">
-<file name="C:\Users\osa20\IdeaProjects\web-project-taxi-service\src\main\java\mate\controller\car\AddCarController.java">
+<file name="C:\Users\osa20\IdeaProjects\web-project-taxi-service\src\main\java\basesyntax\controller\car\AddCarController.java">
 </file>
-<file name="C:\Users\osa20\IdeaProjects\web-project-taxi-service\src\main\java\mate\controller\car\AddDriverToCarController.java">
+<file name="C:\Users\osa20\IdeaProjects\web-project-taxi-service\src\main\java\basesyntax\controller\car\AddDriverToCarController.java">
 </file>
-<file name="C:\Users\osa20\IdeaProjects\web-project-taxi-service\src\main\java\mate\controller\car\DeleteCarController.java">
+<file name="C:\Users\osa20\IdeaProjects\web-project-taxi-service\src\main\java\basesyntax\controller\car\DeleteCarController.java">
 </file>
-<file name="C:\Users\osa20\IdeaProjects\web-project-taxi-service\src\main\java\mate\controller\car\GetAllCarsController.java">
+<file name="C:\Users\osa20\IdeaProjects\web-project-taxi-service\src\main\java\basesyntax\controller\car\GetAllCarsController.java">
 </file>
-<file name="C:\Users\osa20\IdeaProjects\web-project-taxi-service\src\main\java\mate\controller\driver\AddDriverController.java">
+<file name="C:\Users\osa20\IdeaProjects\web-project-taxi-service\src\main\java\basesyntax\controller\driver\AddDriverController.java">
 </file>
-<file name="C:\Users\osa20\IdeaProjects\web-project-taxi-service\src\main\java\mate\controller\driver\DeleteDriverController.java">
+<file name="C:\Users\osa20\IdeaProjects\web-project-taxi-service\src\main\java\basesyntax\controller\driver\DeleteDriverController.java">
 </file>
-<file name="C:\Users\osa20\IdeaProjects\web-project-taxi-service\src\main\java\mate\controller\driver\GetAllDriversController.java">
+<file name="C:\Users\osa20\IdeaProjects\web-project-taxi-service\src\main\java\basesyntax\controller\driver\GetAllDriversController.java">
 </file>
-<file name="C:\Users\osa20\IdeaProjects\web-project-taxi-service\src\main\java\mate\controller\driver\GetMyCurrentCarsController.java">
+<file name="C:\Users\osa20\IdeaProjects\web-project-taxi-service\src\main\java\basesyntax\controller\driver\GetMyCurrentCarsController.java">
 </file>
-<file name="C:\Users\osa20\IdeaProjects\web-project-taxi-service\src\main\java\mate\controller\IndexController.java">
+<file name="C:\Users\osa20\IdeaProjects\web-project-taxi-service\src\main\java\basesyntax\controller\IndexController.java">
 </file>
-<file name="C:\Users\osa20\IdeaProjects\web-project-taxi-service\src\main\java\mate\controller\LoginController.java">
+<file name="C:\Users\osa20\IdeaProjects\web-project-taxi-service\src\main\java\basesyntax\controller\LoginController.java">
 </file>
-<file name="C:\Users\osa20\IdeaProjects\web-project-taxi-service\src\main\java\mate\controller\LogoutController.java">
+<file name="C:\Users\osa20\IdeaProjects\web-project-taxi-service\src\main\java\basesyntax\controller\LogoutController.java">
 </file>
-<file name="C:\Users\osa20\IdeaProjects\web-project-taxi-service\src\main\java\mate\controller\manufacturer\AddManufacturerController.java">
+<file name="C:\Users\osa20\IdeaProjects\web-project-taxi-service\src\main\java\basesyntax\controller\manufacturer\AddManufacturerController.java">
 </file>
-<file name="C:\Users\osa20\IdeaProjects\web-project-taxi-service\src\main\java\mate\controller\manufacturer\DeleteManufacturerController.java">
+<file name="C:\Users\osa20\IdeaProjects\web-project-taxi-service\src\main\java\basesyntax\controller\manufacturer\DeleteManufacturerController.java">
 </file>
-<file name="C:\Users\osa20\IdeaProjects\web-project-taxi-service\src\main\java\mate\controller\manufacturer\GetAllManufacturersController.java">
+<file name="C:\Users\osa20\IdeaProjects\web-project-taxi-service\src\main\java\basesyntax\controller\manufacturer\GetAllManufacturersController.java">
 </file>
-<file name="C:\Users\osa20\IdeaProjects\web-project-taxi-service\src\main\java\mate\dao\CarDao.java">
+<file name="C:\Users\osa20\IdeaProjects\web-project-taxi-service\src\main\java\basesyntax\dao\CarDao.java">
 </file>
-<file name="C:\Users\osa20\IdeaProjects\web-project-taxi-service\src\main\java\mate\dao\CarDaoImpl.java">
+<file name="C:\Users\osa20\IdeaProjects\web-project-taxi-service\src\main\java\basesyntax\dao\CarDaoImpl.java">
 </file>
-<file name="C:\Users\osa20\IdeaProjects\web-project-taxi-service\src\main\java\mate\dao\DriverDao.java">
+<file name="C:\Users\osa20\IdeaProjects\web-project-taxi-service\src\main\java\basesyntax\dao\DriverDao.java">
 </file>
-<file name="C:\Users\osa20\IdeaProjects\web-project-taxi-service\src\main\java\mate\dao\DriverDaoImpl.java">
+<file name="C:\Users\osa20\IdeaProjects\web-project-taxi-service\src\main\java\basesyntax\dao\DriverDaoImpl.java">
 </file>
-<file name="C:\Users\osa20\IdeaProjects\web-project-taxi-service\src\main\java\mate\dao\GenericDao.java">
+<file name="C:\Users\osa20\IdeaProjects\web-project-taxi-service\src\main\java\basesyntax\dao\GenericDao.java">
 </file>
-<file name="C:\Users\osa20\IdeaProjects\web-project-taxi-service\src\main\java\mate\dao\ManufacturerDao.java">
+<file name="C:\Users\osa20\IdeaProjects\web-project-taxi-service\src\main\java\basesyntax\dao\ManufacturerDao.java">
 </file>
-<file name="C:\Users\osa20\IdeaProjects\web-project-taxi-service\src\main\java\mate\dao\ManufacturerDaoImpl.java">
+<file name="C:\Users\osa20\IdeaProjects\web-project-taxi-service\src\main\java\basesyntax\dao\ManufacturerDaoImpl.java">
 </file>
-<file name="C:\Users\osa20\IdeaProjects\web-project-taxi-service\src\main\java\mate\exception\AuthenticationException.java">
+<file name="C:\Users\osa20\IdeaProjects\web-project-taxi-service\src\main\java\basesyntax\exception\AuthenticationException.java">
 </file>
-<file name="C:\Users\osa20\IdeaProjects\web-project-taxi-service\src\main\java\mate\exception\DataProcessingException.java">
+<file name="C:\Users\osa20\IdeaProjects\web-project-taxi-service\src\main\java\basesyntax\exception\DataProcessingException.java">
 </file>
-<file name="C:\Users\osa20\IdeaProjects\web-project-taxi-service\src\main\java\mate\lib\Dao.java">
+<file name="C:\Users\osa20\IdeaProjects\web-project-taxi-service\src\main\java\basesyntax\lib\Dao.java">
 </file>
-<file name="C:\Users\osa20\IdeaProjects\web-project-taxi-service\src\main\java\mate\lib\Inject.java">
+<file name="C:\Users\osa20\IdeaProjects\web-project-taxi-service\src\main\java\basesyntax\lib\Inject.java">
 </file>
-<file name="C:\Users\osa20\IdeaProjects\web-project-taxi-service\src\main\java\mate\lib\Injector.java">
+<file name="C:\Users\osa20\IdeaProjects\web-project-taxi-service\src\main\java\basesyntax\lib\Injector.java">
 </file>
-<file name="C:\Users\osa20\IdeaProjects\web-project-taxi-service\src\main\java\mate\lib\Service.java">
+<file name="C:\Users\osa20\IdeaProjects\web-project-taxi-service\src\main\java\basesyntax\lib\Service.java">
 </file>
-<file name="C:\Users\osa20\IdeaProjects\web-project-taxi-service\src\main\java\mate\model\Car.java">
+<file name="C:\Users\osa20\IdeaProjects\web-project-taxi-service\src\main\java\basesyntax\model\Car.java">
 </file>
-<file name="C:\Users\osa20\IdeaProjects\web-project-taxi-service\src\main\java\mate\model\Driver.java">
+<file name="C:\Users\osa20\IdeaProjects\web-project-taxi-service\src\main\java\basesyntax\model\Driver.java">
 </file>
-<file name="C:\Users\osa20\IdeaProjects\web-project-taxi-service\src\main\java\mate\model\Manufacturer.java">
+<file name="C:\Users\osa20\IdeaProjects\web-project-taxi-service\src\main\java\basesyntax\model\Manufacturer.java">
 </file>
-<file name="C:\Users\osa20\IdeaProjects\web-project-taxi-service\src\main\java\mate\service\AuthenticationService.java">
+<file name="C:\Users\osa20\IdeaProjects\web-project-taxi-service\src\main\java\basesyntax\service\AuthenticationService.java">
 </file>
-<file name="C:\Users\osa20\IdeaProjects\web-project-taxi-service\src\main\java\mate\service\AuthenticationServiceImpl.java">
+<file name="C:\Users\osa20\IdeaProjects\web-project-taxi-service\src\main\java\basesyntax\service\AuthenticationServiceImpl.java">
 </file>
-<file name="C:\Users\osa20\IdeaProjects\web-project-taxi-service\src\main\java\mate\service\CarService.java">
+<file name="C:\Users\osa20\IdeaProjects\web-project-taxi-service\src\main\java\basesyntax\service\CarService.java">
 </file>
-<file name="C:\Users\osa20\IdeaProjects\web-project-taxi-service\src\main\java\mate\service\CarServiceImpl.java">
+<file name="C:\Users\osa20\IdeaProjects\web-project-taxi-service\src\main\java\basesyntax\service\CarServiceImpl.java">
 </file>
-<file name="C:\Users\osa20\IdeaProjects\web-project-taxi-service\src\main\java\mate\service\DriverService.java">
+<file name="C:\Users\osa20\IdeaProjects\web-project-taxi-service\src\main\java\basesyntax\service\DriverService.java">
 </file>
-<file name="C:\Users\osa20\IdeaProjects\web-project-taxi-service\src\main\java\mate\service\DriverServiceImpl.java">
+<file name="C:\Users\osa20\IdeaProjects\web-project-taxi-service\src\main\java\basesyntax\service\DriverServiceImpl.java">
 </file>
-<file name="C:\Users\osa20\IdeaProjects\web-project-taxi-service\src\main\java\mate\service\GenericService.java">
+<file name="C:\Users\osa20\IdeaProjects\web-project-taxi-service\src\main\java\basesyntax\service\GenericService.java">
 </file>
-<file name="C:\Users\osa20\IdeaProjects\web-project-taxi-service\src\main\java\mate\service\ManufacturerService.java">
+<file name="C:\Users\osa20\IdeaProjects\web-project-taxi-service\src\main\java\basesyntax\service\ManufacturerService.java">
 </file>
-<file name="C:\Users\osa20\IdeaProjects\web-project-taxi-service\src\main\java\mate\service\ManufacturerServiceImpl.java">
+<file name="C:\Users\osa20\IdeaProjects\web-project-taxi-service\src\main\java\basesyntax\service\ManufacturerServiceImpl.java">
 </file>
-<file name="C:\Users\osa20\IdeaProjects\web-project-taxi-service\src\main\java\mate\util\ConnectionUtil.java">
+<file name="C:\Users\osa20\IdeaProjects\web-project-taxi-service\src\main\java\basesyntax\util\ConnectionUtil.java">
 </file>
-<file name="C:\Users\osa20\IdeaProjects\web-project-taxi-service\src\main\java\mate\web\filter\AuthenticationFilter.java">
+<file name="C:\Users\osa20\IdeaProjects\web-project-taxi-service\src\main\java\basesyntax\web\filter\AuthenticationFilter.java">
 </file>
 </checkstyle>

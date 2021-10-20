@@ -9,7 +9,7 @@
 </head>
 <body>
 <h3 class="table_white"><a href="/">Home page</a></h3>
-<h3 style="color: red">${error}</h3>
+<h3 class="table_white" style="color: red">${error}</h3>
 <form method="post" id="driver" action="${pageContext.request.contextPath}/drivers/add"></form>
 <h1 class="table_white">Add driver:</h1>
 <table border="1" class="table_white">

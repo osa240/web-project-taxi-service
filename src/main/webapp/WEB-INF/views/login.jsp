@@ -8,7 +8,7 @@
 </head>
 <body>
 <h1 class="table_white">Login page</h1>
-<h3 style="color: red">${error}</h3>
+<h3 class="table_white" style="color: red">${error}</h3>
 <form class="table_white" method="post" action="${pageContext.request.contextPath}/login">
     <td>Login:    <input type="text" name="login" required></td>
     <td>Password: <input type="password" name="password" required></td>
