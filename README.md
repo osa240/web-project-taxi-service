@@ -5,7 +5,7 @@ as a N-tier architecture with web-technologies (Servlets and JDBC).
 Itself is an emulation of a taxi service.
 
 Examples of code:
-~~~java
+```java
 package basesyntax.controller;
 
 import java.io.IOException;
@@ -27,7 +27,7 @@ public class IndexController extends HttpServlet {
         req.getRequestDispatcher("/WEB-INF/views/index.jsp").forward(req, resp);
     }
 }
-~~~
+```
 
 ## Run online version - deployment on Heroku:
 - please follow the [link](https://serhii-orlov.herokuapp.com/login")
